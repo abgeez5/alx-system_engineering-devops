@@ -1,2 +1,2 @@
-#!/bin/bamod
+#!/bin/bsh
 chmod 753 hello
